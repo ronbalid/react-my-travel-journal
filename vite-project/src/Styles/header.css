@@ -1,0 +1,15 @@
+.header {
+  background-color: #F55A5A;
+  color: #fff;
+  padding-block: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header h3 {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  font-weight: 300;
+}
